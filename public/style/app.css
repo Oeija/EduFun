@@ -1,0 +1,22 @@
+body{
+    background
+}
+
+.navbar {
+    font-family: 'Poppins', serif;
+    font-weight: 600;
+}
+
+.navbar .nav-link {
+    color: black; 
+  }
+  
+.navbar .nav-link:hover {
+    color: lightblue; 
+}
+  
+  
+.navbar .nav-link:active {
+    color: lightblue;
+    text-decoration: underline;
+}
